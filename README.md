@@ -6,10 +6,11 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 ### 💻 Habilidades Técnicas
 
 #### Desarrollo Móvil
-<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" height="40"/> 
-<img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" height="40"/>
-<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="40"/>
-<img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" height="40"/> 
+<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" height="40"/>  
+<img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" height="40"/>  
+<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="40"/>  
+<img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" height="40"/>  
+ 
 
 
 #### Desarrollo Web
