@@ -18,8 +18,8 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="40"/>  
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" height="40"/> 
 <img src="https://img.shields.io/badge/-Node.JS-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.JS" height="40"/> 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="40"/> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="40"/> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" height="40"/> 
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=orange" alt="Java" height="40"/> 
 
 #### Otras Tecnologías
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40"/> 
