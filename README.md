@@ -16,7 +16,5 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 ## 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/adolfo--gomez/)
 
-## 🤝 Buscando Colaborar
-Estoy interesado en participar en proyectos  para continuar mi desarrollo profesional.
 
 
