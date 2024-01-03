@@ -24,7 +24,7 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 #### Otras Tecnologías
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="40"/> 
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="40"/> 
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" height="40"/>
+
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/adol
