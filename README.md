@@ -1,7 +1,8 @@
 # 👋 Hola, Soy Adolfo - gliaDev -
 
 ## 🚀 Sobre Mí
-Soy un desarrollador apasionado con un fuerte enfoque en el desarrollo de aplicaciones móviles iOS, utilizando Swift y SwiftUI. Comencé mi carrera en el desarrollo web y he ampliado mis habilidades para incluir una variedad de tecnologías tanto en el frontend como en el backend.
+Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde trabajé con una variedad de tecnologías. Mi curiosidad y pasión por aprender me llevaron a estudiar DAM (Desarrollo de Aplicaciones Multiplataforma). Durante este tiempo, descubrí mi interés y habilidad en el desarrollo móvil y tomé la decisión de especializarme en desarrollo iOS utilizando Swift.
+
 
 ## 💻 Habilidades Técnicas
 
