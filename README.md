@@ -5,6 +5,10 @@ Soy un desarrollador apasionado con un fuerte enfoque en el desarrollo de aplica
 
 ## 💻 Habilidades Técnicas
 
+### 📱 Desarrollo Móvil
+<img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" height="25"/>  
+<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="25"/>  
+
 ### 🌐 Frontend
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="25"/> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" height="25"/> 
@@ -19,10 +23,6 @@ Soy un desarrollador apasionado con un fuerte enfoque en el desarrollo de aplica
 ### 🖥️ Lenguajes de Programación
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="25"/> 
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" height="25"/> 
-
-### 📱 Desarrollo Móvil
-<img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" height="25"/>  
-<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="25"/>  
 
 ### 💾 Bases de Datos
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="25"/> 
