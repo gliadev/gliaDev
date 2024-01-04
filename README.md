@@ -8,9 +8,8 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 
 ### 📱 Desarrollo Móvil
 <img src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" height="25"/>  
-<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="25"/>
-<img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" height="25"/>
-
+<img src="https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" height="25"/>  
+<img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" height="25"/>  
 
 ### 🌐 Frontend
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="25"/> 
@@ -34,6 +33,7 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 ### 🔄 Control de Versiones
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="25"/> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/> 
+
 
 ## 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/adol)
