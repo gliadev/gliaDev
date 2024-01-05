@@ -1,7 +1,11 @@
 # 👋 Hola, Soy Adolfo - gliaDev -
 
 ## 🚀 Sobre Mí
-Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde trabajé con una variedad de tecnologías. Mi curiosidad y pasión por aprender me llevaron a estudiar DAM (Desarrollo de Aplicaciones Multiplataforma). Durante este tiempo, descubrí mi interés y habilidad en el desarrollo móvil y tomé la decisión de especializarme en desarrollo iOS utilizando Swift.
+🖥️ **Pasión por la Tecnología**: Inicié mi viaje en el mundo de la tecnología en el desarrollo web, sumergiéndome en una diversidad de tecnologías y herramientas.
+
+📚 **Curiosidad y Aprendizaje Constante**: Mi curiosidad innata y mi pasión por aprender me llevaron a estudiar DAM (Desarrollo de Aplicaciones Multiplataforma), donde descubrí mi interés y habilidad en el desarrollo móvil.
+
+📱 **Enfoque en Desarrollo iOS**: Decidí especializarme en el desarrollo de iOS, utilizando Swift, y me he dedicado a perfeccionar mis habilidades en esta área.
 
 
 ## 💻 Habilidades Técnicas
@@ -33,7 +37,6 @@ Mi carrera en el mundo de la tecnología comenzó en el desarrollo web, donde tr
 ### 🔄 Control de Versiones
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="25"/> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/> 
-
 
 ## 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/adol)
