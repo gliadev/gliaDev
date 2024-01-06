@@ -5,8 +5,7 @@
 
 📚 Mi curiosidad por aprender me llevaron a estudiar DAM (Desarrollo de Aplicaciones Multiplataforma), donde descubrí mi interés por el desarrollo móvil.
 
-📱 Decidí especializarme ![Captura de pantalla 06 01 2024 a 17 02 50 p  m](https://github.com/gliadev/gliaDev/assets/78279221/93d29b02-de22-4cd7-96f3-277ff3e1db22)
-en el desarrollo de iOS, utilizando Swift, matriculandome en el Swift Developer Program'23 de @applecodingacademy
+📱 Decidí especializarme en el desarrollo de iOS, utilizando Swift, matriculandome en el Swift Developer Program'23 de @applecodingacademy
 
 ## 💻 Habilidades Técnicas
 
