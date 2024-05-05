@@ -43,5 +43,6 @@
 
 
 ### 📫 🌐 **Conéctate conmigo:**
-[![LinkedIn](URL-DE-LA-IMAGEN-LINKEDIN-RAW)](https://www.linkedin.com/in/adolfo--gomez/)
-[![Twitter](URL-DE-LA-IMAGEN-TWITTER-RAW)](https://twitter.com/home?lang=es)
+[![LinkedIn](https://raw.githubusercontent.com/gliadev/gliaDev/master/assets/78279221/bf2d3827-7f0e-46d4-92f4-f54100696ac6)](https://www.linkedin.com/in/adolfo--gomez/)
+[![Twitter](https://raw.githubusercontent.com/gliadev/gliaDev/master/assets/78279221/e84f1116-7655-4f5a-b3b8-b54799674748)](https://twitter.com/home?lang=es)
+
