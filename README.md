@@ -7,6 +7,8 @@
 
 📱 Decidí especializarme en el desarrollo de iOS, utilizando Swift, matriculandome en el Swift Developer Program'23 de @applecodingacademy
 
+👯‍♀️ **Busco colaborar en:** proyectos  dentro de la comunidad de desarrollo de iOS, y continuar aprendiendo y mejorando mis habilidades.
+
 ## 💻 Habilidades Técnicas
 
 ### 📱 Desarrollo Móvil
@@ -39,5 +41,5 @@
 
 
 ### 📫 🌐 **Conéctate conmigo:**
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/adolfo--gomez/)
-[![Twitter](https://i.stack.imgur.com/yZlqh.png)](https://twitter.com/home?lang=es)
+[![LinkedIn](https://i.imgur.com/Q9bqLwX.png)](https://www.linkedin.com/in/adolfo--gomez/)
+[![Twitter](https://i.imgur.com/wWzX9uB.png)](https://twitter.com/home?lang=es)
