@@ -43,5 +43,5 @@
 
 
 ### 📫 🌐 **Conéctate conmigo:**
-[![LinkedIn](https://i.postimg.cc/yNjGQfPL/linkedin.png)](https://www.linkedin.com/in/adolfo--gomez/)
-[![Twitter](https://i.postimg.cc/Vkwh3L7w/twitter.png)](https://twitter.com/home?lang=es)
+[![LinkedIn](URL-DE-LA-IMAGEN-LINKEDIN-RAW)](https://www.linkedin.com/in/adolfo--gomez/)
+[![Twitter](URL-DE-LA-IMAGEN-TWITTER-RAW)](https://twitter.com/home?lang=es)
