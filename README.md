@@ -9,6 +9,8 @@
 
 👯‍♀️ **Busco colaborar en:** proyectos  dentro de la comunidad de desarrollo de iOS, y continuar aprendiendo y mejorando mis habilidades.
 
+👩‍💻 **Actualmente estoy trabajando en:** fortalecer mis habilidades en iOS a través de proyectos personales y formación en línea.
+
 ## 💻 Habilidades Técnicas
 
 ### 📱 Desarrollo Móvil
