@@ -44,5 +44,5 @@
 
 
 ### 📫 🌐 **Conéctate conmigo:**
-![Unknown](https://github.com/gliadev/gliaDev/assets/78279221/2f29631f-6a37-4314-8b55-f76778efcd51)
-![Unknown](https://github.com/gliadev/gliaDev/assets/78279221/188f62cf-7fad-42cc-a584-c5428cf1496f)
+[![Twitter](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30)](https://twitter.com/home?lang=es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo--gomez/)
