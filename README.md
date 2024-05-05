@@ -45,7 +45,6 @@
 
 ### 📫 🌐 **Conéctate conmigo:**
 
-![Linkendl](https://github.com/gliadev/gliaDev/assets/78279221/eb454c75-bf41-4782-9b36-b2a0e4acab00 alt="LinkedIn" width="30" height="30")(https://www.linkedin.com/in/adolfo--gomez/)
-
-
-![Twitter](https://github.com/gliadev/gliaDev/assets/78279221/ab08e566-2228-4442-99c3-598727c264b1)(https://twitter.com/home?lang=es)
+### 🌐 **Conéctate conmigo:**
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/adolfo--gomez/)
+[![Twitter](https://i.stack.imgur.com/yZlqh.png)](https://twitter.com/home?lang=es)
