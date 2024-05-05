@@ -37,5 +37,7 @@
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="25"/> 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/> 
 
-## 📫 Contáctame
-- [LinkedIn](https://www.linkedin.com/in/adolfo--gomez/)
+
+### 📫 🌐 **Conéctate conmigo:**
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/adolfo--gomez/)
+[![Twitter](https://i.stack.imgur.com/yZlqh.png)](https://twitter.com/home?lang=es)
