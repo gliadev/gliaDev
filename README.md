@@ -42,10 +42,10 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/> 
 
 
+
 ### 📫 🌐 **Conéctate conmigo:**
 
-![Linkendl](https://github.com/gliadev/gliaDev/assets/78279221/eb454c75-bf41-4782-9b36-b2a0e4acab00)(https://www.linkedin.com/in/adolfo--gomez/)
+[<img src="https://raw.githubusercontent.com/gliadev/gliaDev/master/assets/linkedin_icon.png" alt="LinkedIn" width="30" height="30"/>](https://www.linkedin.com/in/adolfo--gomez/)
 
-
-![Twitter](https://github.com/gliadev/gliaDev/assets/78279221/ab08e566-2228-4442-99c3-598727c264b1)(https://twitter.com/home?lang=es)
+[<img src="https://raw.githubusercontent.com/gliadev/gliaDev/master/assets/twitter_icon.png" alt="Twitter" width="30" height="30"/>](https://twitter.com/home?lang=es)
 
