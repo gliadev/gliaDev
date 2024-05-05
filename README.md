@@ -44,7 +44,5 @@
 
 
 ### 📫 🌐 **Conéctate conmigo:**
-
-### 🌐 **Conéctate conmigo:**
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/adolfo--gomez/)
-[![Twitter](https://i.stack.imgur.com/yZlqh.png)](https://twitter.com/home?lang=es)
+![Unknown](https://github.com/gliadev/gliaDev/assets/78279221/2f29631f-6a37-4314-8b55-f76778efcd51)
+![Unknown](https://github.com/gliadev/gliaDev/assets/78279221/188f62cf-7fad-42cc-a584-c5428cf1496f)
