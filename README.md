@@ -2,6 +2,8 @@
 
 
 🚀 Sobre Mí
+
+
 🖥️ Inicié mi viaje en el desarrollo web, sumergiéndome en una diversidad de tecnologías y herramientas.
 
 📚 Mi curiosidad por aprender me llevó a estudiar DAM (Desarrollo de Aplicaciones Multiplataforma), donde descubrí mi interés por el desarrollo móvil.
