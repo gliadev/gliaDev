@@ -52,6 +52,7 @@ Puedes visitar mi portafolio en línea para ver más sobre mis proyectos y habil
 [Mi Portafolio](https://gliadev.github.io/miPorfolio/)
 
 Además, puedes revisar el código fuente del proyecto en GitHub:
+
 [Repositorio del Proyecto](https://github.com/gliadev/miPorfolio)
 
 📫 🌐 Conéctate conmigo:
