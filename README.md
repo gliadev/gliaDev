@@ -12,7 +12,10 @@
 
 👯‍♀️ Busco colaborar en: proyectos dentro de la comunidad de desarrollo de iOS, y continuar aprendiendo y mejorando mis habilidades.
 
-👩‍💻 Actualmente estoy trabajando en: fortalecer mis habilidades en iOS a través de proyectos personales y formación en línea.
+
+👩‍💻 
+Como puedes ver tocado de todo hasta que descubir Swift donde estoy especializandome y aprendiendo para tener una oportunidad de ser Junior, tienes mi ruta de estudio mis proyectos y referencias a sitios
+si te vienen bien para tu desarrollo dale.
 
 💻 Habilidades Técnicas
 
