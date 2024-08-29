@@ -50,7 +50,7 @@ si te vienen bien para tu desarrollo dale.
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="25"/> 
 
 ### 🌐 Mi Sitio Web
-Puedes visitar mi portafolio en línea para ver más sobre mis proyectos y habilidades: ( En este momento estoy haciendolo y mejorandolo puliendo detalles )
+Puedes visitar mi portafolio en línea para ver más sobre mis proyectos y habilidades:
 
 [Mi Portafolio](https://gliadev.github.io/miPorfolio/)
 
