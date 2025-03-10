@@ -17,7 +17,7 @@
 Como puedes ver tocado de todo hasta que descubir Swift donde estoy especializandome y aprendiendo para tener una oportunidad de ser Junior, tienes mi ruta de estudio mis proyectos y referencias a sitios
 si te vienen bien para tu desarrollo dale.
 
-💻 Habilidades Técnicas
+💻 Habilidades Técnicas que ido tocando en este camino
 
 
 📱 Desarrollo Móvil
